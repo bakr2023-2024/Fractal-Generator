@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\ENG Eldeeb\\Downloads\\commons-numbers-1.1-bin\\commons-numbers-1.1\\commons-numbers-complex-1.1.jar"
+  ]
+}
